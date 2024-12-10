@@ -1,6 +1,6 @@
 import React from 'react';
 
-function IreshBranch() {
+function Homepage() {
     return (
         <>
             <div>I'm Iresh at same branch from</div>
@@ -9,4 +9,4 @@ function IreshBranch() {
     )
 }
 
-export default IreshBranch
+export default Homepage;
